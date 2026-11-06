@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hey, I'm Mallesh! 👋
 
-<!--
-**mallesh-999/mallesh-999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Undergraduate | Aspiring AI Engineer
 
-Here are some ideas to get you started:
+I'm passionate about problem-solving, Artificial Intelligence, Machine Learning, and building intelligent applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+- 🎓 B.Tech Computer Science student
+- 📊 CGPA: 8.98
+- 💻 Practicing Data Structures & Algorithms using Python
+- 🤖 Exploring Machine Learning, Generative AI, and RAG
+- ⚙️ Building backend applications using Spring Boot
+
+### 🛠️ Technical Skills
+
+**Programming:** Python, Java, C
+
+**AI/ML:** NumPy, Pandas, Matplotlib, Scikit-learn
+
+**Backend:** Spring Boot, REST APIs, JWT
+
+**Database:** MySQL, PostgreSQL
+
+**Tools:** Git, GitHub, VS Code, Jupyter Notebook
+
+### 🚀 Projects
+- **Custom AI Agent with Memory** – AI assistant built using Python, FastAPI, LangChain, and Gemini API.
+- **Career Assessment Tool** – An application designed to help students assess their understanding of course topics.
+
+### 📄 Resume
+[View My Resume](MyResume.pdf)
+
+### 🔗 Connect With Me
+- GitHub: [mallesh-999](https://github.com/mallesh-999)
+- LinkedIn: [sathvikeya-mallesh-padala](https://www.linkedin.com/in/sathvikeya-mallesh-padala/)
+
+---
+⭐ Always learning, building, and improving!
